@@ -8,4 +8,4 @@ date: 2018-10-16
 location: "Porec, Croatia"
 ---
 
-[More information here](https://www.researchgate.net publication/330012267_EFFECTS_OF_ENVIRONMENTAL_ENRICHMENT_ON_BEHAVIOUR_OF_SEA_TURTLES_IN_REHABILITATION)
+Link to poster [here](http://constantin-george.github.io/files/EE-Poster-MedCon2018-final.pdf)
