@@ -5,7 +5,7 @@ type: "Poster Presentation"
 permalink: /talks/2012-03-01-talk-1
 venue: "39th Annual International Sea Turtle Symposium"
 date: 2019-03-18
-location: "Porec, Croatia"
+location: "Charleston, SC"
 ---
 Authors: Glen, G., Harrison, E., Jackson, A., Valverde, R.
 
