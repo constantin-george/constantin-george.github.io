@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download latest CV here: [CV.GG.2019.pdf](/Users/georgeglen/Documents/Files/CV_forms/LaTex_CV/CV-GG2019/CV.GG.2019.pdf)
+[Download latest CV here:](http://constantin-george.github.io/files/CV_GG.pdf)
