@@ -10,7 +10,7 @@ location: "Porec, Croatia"
 Authors: Glen, G., Harrison, E., Jackson, A., Valverde, R.
 
 DOI: 10.13140/RG.2.2.20777.65129
----
+
 Link to poster [here](https://www.researchgate.net/publication/331097776_THE_SPATIAL_AND_TEMPORAL_DISTRIBUTION_OF_POACHING_EVENTS_AT_TORTUGUERO_COSTA_RICA)
 
 
