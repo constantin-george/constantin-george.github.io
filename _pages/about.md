@@ -17,6 +17,8 @@ I currently research life-history theory and reproductive senescence in sea turt
 
 I have worked in various roles on multiple projects, both governmental and non-governmental, around the world. These include [ARCHELON, the Sea Turtle Protection Society of Greece](https://www.archelon.gr/index_eng.php), [Reef HQ, The Great Barrier Reef Aquarium](https://www.reefhq.com.au), and the [Sea Turtle Conservancy](https://conserveturtles.org). 
 
+<p>
 <br/><img src='/images/sea_turtle_greece1.png'>
 <br clear="left"/>
 An injured loggerhead sea turtle I encountered while working as research coordinator for [ARCHELON, the Sea Turtle Protection Society of Greece](https://www.archelon.gr/index_eng.php). This turtle was found with ingested fishing line and we were preparing to transport her to a rehabilitation center.
+<p/>
