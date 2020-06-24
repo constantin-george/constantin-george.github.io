@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a doctoral student in the Biology Department at the University of Florida. I am studying the evolution of aging in [Professor Karen Bjorndal's](https://biology.ufl.edu/bjorndal/) lab. I am also a member of the [Archie Carr Center of Sea Turtle Biology](https://accstr.ufl.edu/). I have an MSc in wildlife conservation from [Trinity College Dublin](https://naturalscience.tcd.ie/postgraduate/msc-biodiversity/). 
+I am a doctoral student in the Biology Department at the University of Florida. I am studying the evolution of aging in [Professor Karen Bjorndal's](https://biology.ufl.edu/bjorndal/) lab. I am also a member of the [Archie Carr Center of Sea Turtle Biology](https://accstr.ufl.edu/). I hold a M.Sc. in wildlife conservation from [Trinity College Dublin](https://naturalscience.tcd.ie/postgraduate/msc-biodiversity/). 
 
 <br/><img src='/images/ISTS_charleston.png'>
 
