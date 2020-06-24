@@ -15,7 +15,7 @@ I am a doctoral student in the Biology Department at the University of Florida. 
 
 My main research interest is in life-history theory and reproductive senescence in sea turtles, particularly the intersection between the two. I approach my research through a statistical framework, working to develop models to explain aging and the consequences of such. Sea turtles provide a fascinating study system given their longevity and complex life-history.  
 
-I have worked on multiple projects, both governmental and non-governmental, around the world. These include [ARCHELON, the Sea Turtle Protection Society of Greece](https://www.archelon.gr/index_eng.php), [Reef HQ, The Great Barrier Reef Aquarium](https://www.reefhq.com.au), and the [Sea Turtle Conservancy](https://conserveturtles.org).
+I have worked in various roles on multiple projects, both governmental and non-governmental, around the world. These include [ARCHELON, the Sea Turtle Protection Society of Greece](https://www.archelon.gr/index_eng.php), [Reef HQ, The Great Barrier Reef Aquarium](https://www.reefhq.com.au), and the [Sea Turtle Conservancy](https://conserveturtles.org).
 
 
 <br/><img src='/images/sea_turtle_greece1.png'>
