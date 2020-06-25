@@ -19,7 +19,7 @@ While, for the most part, my focus has been on sea turtles, I am deeply interest
 
 I have worked in various roles on multiple projects, both governmental and non-governmental, around the world. These include [ARCHELON, the Sea Turtle Protection Society of Greece](https://www.archelon.gr/index_eng.php), [Reef HQ, The Great Barrier Reef Aquarium](https://www.reefhq.com.au), and the [Sea Turtle Conservancy](https://conserveturtles.org). 
 
-<br/><img src='/images/sea_turtle_greece1.png'>
+<br/><img src='/images/sea_turtle_greece2.png'>
 
 Reproductive Senescence in Sea turtles
 ==============================
