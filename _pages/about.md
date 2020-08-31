@@ -29,6 +29,4 @@ Details coming soon
 
 Affiliations
 ==============================
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-<br/><img src='/images/ACCSTR.png'>  |  <br/><img src='/images/UF-Biology_Logo.png'>
+<br/><img align="left" src='/images/ACCSTR.png'> <br/><img align="right" src='/images/UF-Biology_Logo.png'>
