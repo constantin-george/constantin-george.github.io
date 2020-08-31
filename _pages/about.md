@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-I am a doctoral student in the [Biology Department](https://biology.ufl.edu/) at the University of Florida. I am studying the evolution of aging in [Professor Karen Bjorndal's](https://biology.ufl.edu/bjorndal/) lab. I hold a M.Sc. in wildlife conservation from [Trinity College Dublin](https://naturalscience.tcd.ie/postgraduate/msc-biodiversity/).
+I am a doctoral student in the [Archie Carr Center of Sea Turtle Research](https://accstr.ufl.edu/) at the University of Florida. I am studying life-history theory and the evolution of aging in [Professor Karen Bjorndal's](https://biology.ufl.edu/bjorndal/) lab. I hold a M.Sc. in wildlife conservation from [Trinity College Dublin](https://naturalscience.tcd.ie/postgraduate/msc-biodiversity/).
 
 <br/><img src='/images/sea_turtle_greece1.png'>
 
-I currently research life-history theory and reproductive senescence in sea turtles, and I am particularly interested in the intersection between foraging ecology and the rate of aging. I approach my research through a statistical framework. 
+I currently research reproductive senescence in sea turtles, and I am particularly interested in the intersection between foraging ecology and the rate of aging. I approach my research through a statistical framework.
 
 While, for the most part, my focus has been on sea turtles, I am deeply interested in population modeling and its application to conserving fragile ecosystems and threatened species. I feel by understanding the underlying mathematics of biological systems you gain a deeper insight into the nuts and bolts of how these systems function.
 
