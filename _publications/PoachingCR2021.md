@@ -2,8 +2,9 @@
 title: "Quantifying Illegal Extraction of Sea Turtles in Costa Rica"
 collection: publications
 type: "Paper"
-authors: "Authors: Helen Pheasey, George Glen, Nicole L. Allison, Luis G. Fonseca, Didiher Chacón, Jaime Restrepo, and Roldán A. Valverde"
+excerpt: "Authors: Helen Pheasey, George Glen, Nicole L. Allison, Luis G. Fonseca, Didiher Chacón, Jaime Restrepo, and Roldán A. Valverde"
 permalink: /publications/PoachingCR2021
+paperurl: 'http://constantin-george.github.io/files/Pheasey2021-PoachingCR.pdf'
 venue: "Frontiers in Conservation Science"
 date: 2021-08-23
 ---
@@ -14,5 +15,3 @@ Estimates of illegal wildlife trade vary significantly and are often based on in
 Authors: Helen Pheasey, George Glen, Nicole L. Allison, Luis G. Fonseca, Didiher Chacón, Jaime Restrepo, and Roldán A. Valverde
 
 DOI: 10.3389/fcosc.2021.705556
-
-Link to paper [here](http://constantin-george.github.io/files/Pheasey2021-PoachingCR.pdf)
