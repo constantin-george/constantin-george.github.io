@@ -2,6 +2,7 @@
 title: "Quantifying Illegal Extraction of Sea Turtles in Costa Rica"
 collection: publications
 type: "Paper"
+excerpt: ""
 permalink: /publications/PoachingCR2021
 venue: "Frontiers in Conservation Science"
 date: 2021-08-23
