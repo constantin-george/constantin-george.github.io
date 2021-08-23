@@ -23,6 +23,7 @@ location_dict = {}
 location = ""
 permalink = ""
 title = ""
+authors = ""
 
 
 for file in g:
