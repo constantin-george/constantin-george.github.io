@@ -1,5 +1,5 @@
 ---
-title: "Quantifying Illegal Extraction of Sea Turtles in Costa Rica"
+title: "Quantifying illegal extraction of sea turtles in Costa Rica"
 collection: publications
 type: "Paper"
 excerpt: "Authors: Helen Pheasey, George Glen, Nicole L. Allison, Luis G. Fonseca, Didiher Chacón, Jaime Restrepo, and Roldán A. Valverde"
