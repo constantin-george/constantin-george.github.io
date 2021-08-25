@@ -31,7 +31,9 @@ Affiliations
 ==============================
 <br/><img align="left" src='/images/ACCSTR.png'> <br/><img align="right" src='/images/UF-Biology_Logo.png'>
 
+
+==============================
 <a class="twitter-timeline"
-  href="https://twitter.com/{constantinglen}/likes">
-Tweets by @{constantinglen}
+  href="https://twitter.com/{constantinglen}/Tweets">
+  Tweets by @{constantinglen}
 </a>
