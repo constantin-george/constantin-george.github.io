@@ -1,8 +1,8 @@
 ---
 title: "Matrix modeling sea turtle population dynamics"
-collection: research
+collection: posts
 type: "posts"
-permalink: /research/matmodel.md
+permalink: /posts/matmodel.md
 venue: ""
 date: 2018-10-16
 location: "Porec, Croatia"
