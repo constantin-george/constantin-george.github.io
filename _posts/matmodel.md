@@ -1,8 +1,9 @@
 ---
 title: "Matrix modeling sea turtle population dynamics"
-collection: posts
+collection: talks
 type: "Poster"
 permalink: 
-venue: ""
-date: 2021-08-25
+venue: "6th Mediterranean Conference on Marine Turtles"
+date: 2018-10-16
+location: "Porec, Croatia"
 ---
