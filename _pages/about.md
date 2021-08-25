@@ -34,6 +34,6 @@ Affiliations
 
 ==============================
 <a class="twitter-timeline"
-  href="https://twitter.com/{constantinglen}/Tweets">
-  Tweets by @{constantinglen}
+  href="https://twitter.com/{constantinglen}">
+Tweets by @{constantinglen}
 </a>
