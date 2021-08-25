@@ -32,6 +32,4 @@ Affiliations
 <br/><img align="left" src='/images/ACCSTR.png'> <br/><img align="right" src='/images/UF-Biology_Logo.png'>
 
 
-Twitter
-==============================
 <a class="twitter-timeline" data-theme="dark" href="https://twitter.com/constantinglen?ref_src=twsrc%5Etfw">Tweets by constantinglen</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
