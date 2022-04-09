@@ -14,6 +14,6 @@ In migratory marine species, demographic estimates are often generated from capt
 
 Authors: Joseph B. Pfaller1, Sara M. Weaver, Kristina L. Williams, Mark G. Dodd, Matthew H. Godfrey, DuBose B. Griffin, S. Michelle Pate, C. George Glen, Campbell J. Nairn, Brian M. Shamblin
 
-DOI: https://doi.org/10.1007/s00227-021-03991-z
+DOI: 10.1007/s00227-021-03991-z
 
 Link to paper [here](http://constantin-george.github.io/files/Pfaller2022MarBiol.pdf')
