@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a doctoral student in the [Archie Carr Center for Sea Turtle Research](https://accstr.ufl.edu/) at the University of Florida. I am studying life-history theory and the evolution of aging in [Professor Karen Bjorndal's](https://biology.ufl.edu/bjorndal/) lab. I hold a M.Sc. in wildlife conservation from [Trinity College Dublin](https://naturalscience.tcd.ie/postgraduate/msc-biodiversity/).
+Ia am a doctoral student in the [Archie Carr Center for Sea Turtle Research](https://accstr.ufl.edu/) at the University of Florida. I am studying life-history theory and the evolution of aging in [Professor Karen Bjorndal's](https://biology.ufl.edu/bjorndal/) lab. I hold a M.Sc. in wildlife conservation from [Trinity College Dublin](https://naturalscience.tcd.ie/postgraduate/msc-biodiversity/).
 
 <br/><img src='/images/sea_turtle_greece1.png'>
 
