@@ -3,7 +3,7 @@ title: "Quantifying illegal extraction of sea turtles in Costa Rica"
 collection: publications
 type: "Paper"
 excerpt: "Authors: Helen Pheasey, George Glen, Nicole L. Allison, Luis G. Fonseca, Didiher Chacón, Jaime Restrepo, and Roldán A. Valverde"
-permalink: /publications/PoachingCR2021
+permalink: /publications/CRpoaching2021
 #paperurl: 'http://constantin-george.github.io/files/Pheasey2021-PoachingCR.pdf'
 venue: "Frontiers in Conservation Science"
 date: 2021-08-23
