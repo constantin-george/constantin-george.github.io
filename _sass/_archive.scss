@@ -18,7 +18,7 @@
     text-decoration: none;
 
     &:hover {
-      text-decoration: none;
+      text-decoration: underline;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -80,7 +80,7 @@
   }
 
   .archive__item-title {
-    text-decoration: none;
+    text-decoration: underline;
   }
 }
 
