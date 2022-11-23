@@ -10,3 +10,5 @@ redirect_from:
 {% include base_path %}
 
 Download latest CV [here](http://constantin-george.github.io/files/CV_GG.pdf)
+
+<a href="http://constantin-george.github.io/files/CV_GG.pdf" target="_blank">PDF.</a>
