@@ -28,7 +28,7 @@ Details coming soon
 
 Affiliations
 ==============================
-<br> <img align="left" src='/images/ACCSTR.png' width="350"> <br/><img align="right" src='/images/UF-Biology_Logo.png' width="350"> <br>
+<br> <img align="left" src='/images/ACCSTR.png' width="400"> <br/><img align="right" src='/images/UF-Biology_Logo.png' width="400"> <br>
 
 
 Media
