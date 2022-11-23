@@ -27,6 +27,12 @@ Reproductive Senescence in Sea turtles
 Details coming soon
 
 
+Affiliations
+==============================
+<br/><img align="center" src='/images/ACCSTR.png'> <br/><img align="right" src='/images/UF-Biology_Logo.png'>
+
+
+
 Media
 ==============================
 <a class="twitter-timeline" data-height="300" data-theme="light" href="https://twitter.com/constantinglen?ref_src=twsrc%5Etfw">Tweets by constantinglen</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
