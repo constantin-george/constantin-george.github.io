@@ -2,7 +2,7 @@
 title: "The effects of environmental enrichment on sea turtle behavior"
 collection: talks
 type: "Poster"
-permalink: /talks/2018-01-Poster_Pres
+permalink: /talks/2018-01-MED-POSTER
 venue: "6th Mediterranean Conference on Marine Turtles"
 date: 2018-10-16
 location: "Porec, Croatia"

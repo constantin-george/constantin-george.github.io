@@ -2,7 +2,7 @@
 title: "The spatial and temporal distribution of poaching events at Tortuguero, Costa Rica"
 collection: talks
 type: "Poster"
-permalink: /talks/2019-01-Poster_Pres
+permalink: /talks/2019-01-ISTS-POSTER
 venue: "39th Annual International Sea Turtle Symposium"
 date: 2019-03-18
 location: "Charleston, SC"
