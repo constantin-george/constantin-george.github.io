@@ -11,4 +11,4 @@ redirect_from:
 
 Download latest CV [here](http://constantin-george.github.io/files/CV_GG.pdf)
 
-<a href="http://constantin-george.github.io/files/CV_GG.pdf" target="_blank">PDF.</a>
+<iframe src="http://constantin-george.github.io/files/CV_GG.pdf" width="640" height="480"></iframe>
