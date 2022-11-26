@@ -7,6 +7,8 @@ tags:
   - Mathematics
 ---
 
+<!DOCTYPE html>
+
 <html>
 
 <head>
@@ -362,15 +364,18 @@ display: none;
 </div>
 
 
-<p>The question is to show the equivalence of <span class="math display">\[ \frac{e^{\beta}}{1+e^{\beta}} \]</span> and
-<span class="math display">\[ \frac{1}{1+e^{-\beta}} \]</span></p>
+<p>The question is to show the equivalence of <span class="math inline">\(\frac{e^{\beta X}}{1+e^{\beta X}}\)</span> and
+<span class="math inline">\(\frac{1}{1+e^{-\beta X}}\)</span>, which are
+two way of expressing the <a href="https://en.wikipedia.org/wiki/Logistic_function">standard logistic
+function</a>.</p>
 <p>There are some mathematical facts that will help us out here:</p>
 <ul>
 <li><span class="math inline">\(\frac{\frac{a}{b}}{c} =
 \frac{b}{c+a}\)</span></li>
 <li><span class="math inline">\([e^x]^{-1} = e^{-x}\)</span></li>
 </ul>
-<p>Now we can show the relation above <span class="math display">\[
+<p>Allowing <span class="math inline">\(X\)</span> to be some matrix of
+predictors, we can now show the relation above <span class="math display">\[
   \begin{align*}
   \frac{e^{\beta  X}}{1+e^{\beta  X}} &amp;= \\\\
   &amp;=
@@ -382,7 +387,14 @@ display: none;
   &amp;= \frac{1}{1 + \frac{1}{e^{\beta  X}}} \\\\
   &amp;= \frac{1}{1 + e^{-\beta  X}}
   \end{align*}
-\]</span> Finally, lets show that the logit(p) is equivalent to <span class="math inline">\(\frac{1}{1 + e^{-\beta X}}\)</span>, where <span class="math inline">\(logit(p) = log( \frac{p}{1-p} )\)</span></p>
+\]</span></p>
+<p>The standard logistic function is important in statistics because it
+is a natural way to bound the probability of events between 0 and 1,
+with the log-odds (<span class="math inline">\(logit(p) = log(
+\frac{p}{1-p} )\)</span>) representing a map from probability to real
+numbers in <span class="math inline">\((-\infty ,+\infty)\)</span>.</p>
+<p>Finally, lets show the relationship between the <a href="https://en.wikipedia.org/wiki/Logistic_function">standard logistic
+function</a> and the logit function, where <span class="math inline">\(logit(p) = log( \frac{p}{1-p} )\)</span></p>
 <p><span class="math display">\[
   \begin{align*}
   log \Big( \frac{p}{1-p} \Big) &amp; = \beta_0 + \beta_1 + \cdots \\\\
@@ -402,6 +414,11 @@ display: none;
   p &amp; = \frac{e^{\beta  X}}{1+e^{\beta  X}}
   \end{align*}
 \]</span></p>
+<p>The logit function if then the inverse of the <a href="https://en.wikipedia.org/wiki/Logistic_function">standard logistic
+function</a>. Logit is also called the log-odds since it is equivalent
+to the natural logarithm of the odds-ratio, with <span class="math inline">\(p\)</span> in <span class="math inline">\(logit(p)
+= log( \frac{p}{1-p} )\)</span> representing the probability of an
+event.</p>
 
 
 
