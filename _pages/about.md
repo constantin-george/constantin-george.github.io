@@ -23,7 +23,9 @@ I have worked in various roles on multiple projects, both governmental and non-g
 
 Senescence in sea turtles
 ==============================
-[![First paper researching aging dynamics in testudines including sea turtles](/images/PhyloAgingTestudines.png)](https://www.nature.com/articles/s42003-025-08717-1)
+(/images/PhyloAgingTestudines.png)
+
+[First paper researching aging dynamics in testudines including sea turtles](https://www.nature.com/articles/s42003-025-08717-1)
 
 Statistical bias in parameter estimation
 ==============================
