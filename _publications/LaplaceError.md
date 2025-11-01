@@ -2,7 +2,7 @@
 title: "Practical Consequences of the Bias in the Laplace Approximation to Marginal Likelihood for Hierarchical Models"
 collection: publications
 type: "Paper"
-excerpt: "Authors: Subhash R. Lele, C. George Glen, José Miguel Ponciano "
+excerpt: "Authors: Subhash R. Lele, C. George Glen, José Miguel Ponciano"
 permalink: /publications/Laplace1
 #paperurl: 'http://constantin-george.github.io/files/Lele2025Laplace.pdf'
 venue: "Entropy"
