@@ -21,10 +21,12 @@ I have worked in various roles on multiple projects, both governmental and non-g
 
 <br/><img src='/images/sea_turtle_greece2.png'>
 
-Reproductive Senescence in Sea turtles
+Senescence in Sea turtles
 ==============================
 
-Details coming soon
+![Aging dynamics in testudines](/images/PhyloAgingTestudines.png)
+
+Aging in captive sea turtles [to a new page or website](https://www.nature.com/articles/s42003-025-08717-1).
 
 Affiliations
 ==============================
