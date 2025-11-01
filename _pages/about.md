@@ -25,7 +25,7 @@ Senescence in Sea turtles
 ==============================
 [![](/images/PhyloAgingTestudines.png)](https://www.nature.com/articles/s42003-025-08717-1)
 
-First paper researching aging dynamics in testudines including sea turtles
+Here we present the first paper researching aging dynamics in testudines including sea turtles.
 
 
 Statistical bias in parameter estimation
