@@ -2,7 +2,7 @@
 title: "Aging dynamics in captive sea turtles reflect conserved life-history patterns across the testudine phylogeny"
 collection: publications
 type: "Paper"
-excerpt: "Authors: C. George Glen, José Miguel Ponciano, James F. Gillooly, María Torres-Sánchez, Walter Mustin, Alan B. Bolten, Karen A. Bjorndal "
+excerpt: "Authors: C. George Glen, José Miguel Ponciano, James F. Gillooly, María Torres-Sánchez, Walter Mustin, Alan B. Bolten, Karen A. Bjorndal"
 permalink: /publications/CTCSenescence
 #paperurl: 'http://constantin-george.github.io/files/Glen2025Senescence.pdf'
 venue: "Communications Biology"
