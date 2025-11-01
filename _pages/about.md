@@ -23,16 +23,16 @@ I have worked in various roles on multiple projects, both governmental and non-g
 
 Senescence in sea turtles
 ==============================
-![](/images/PhyloAgingTestudines.png)
+![(https://www.nature.com/articles/s42003-025-08717-1)](/images/PhyloAgingTestudines.png)
 
-[First paper researching aging dynamics in testudines including sea turtles](https://www.nature.com/articles/s42003-025-08717-1)
+First paper researching aging dynamics in testudines including sea turtles
 
 
 Statistical bias in parameter estimation
 ==============================
-![](/images/LaplaceErrorFig6.png)
+![https://www.mdpi.com/1099-4300/27/3/289](/images/LaplaceErrorFig6.png)
 
-[Hierarchical models (or mixed-effects models) are the bread and butter of statistical ecology and genetics. We all use and have used them. This reliance is unlikely to change because of their broad applicability, but commonly used packages like glmmTMB have an Achilles heel! We show this fact in explicit detail in this paper. While these results may seem relegated to dark statistical corners -- fated as nothing other than intellectual discussions or disagreements among competing methods that ultimately produce the same result -- this most certainly is not the case! The methods and results in this paper have real-world implications for how we all do science. For instance, this issue could be the difference between incorrectly concluding that a treatment or a biotic factor (like temperature) has a positive or negative effect on a response, such as population size and persistence. And because there are no diagnostics to show the model is wrong, we are susceptible to perpetuating false and irreplicable claims. In this paper, we show there are applicable diagnostics to determine if methods using the Laplace approximation are appropriate, using ML estimation via MCMC and data cloning](https://www.mdpi.com/1099-4300/27/3/289)
+Hierarchical models (or mixed-effects models) are the bread and butter of statistical ecology and genetics. We all use and have used them. This reliance is unlikely to change because of their broad applicability, but commonly used packages like glmmTMB have an Achilles heel! We show this fact in explicit detail in this paper. While these results may seem relegated to dark statistical corners -- fated as nothing other than intellectual discussions or disagreements among competing methods that ultimately produce the same result -- this most certainly is not the case! The methods and results in this paper have real-world implications for how we all do science. For instance, this issue could be the difference between incorrectly concluding that a treatment or a biotic factor (like temperature) has a positive or negative effect on a response, such as population size and persistence. And because there are no diagnostics to show the model is wrong, we are susceptible to perpetuating false and irreplicable claims. In this paper, we show there are applicable diagnostics to determine if methods using the Laplace approximation are appropriate, using ML estimation via MCMC and data cloning
 
 
 Affiliations
