@@ -23,7 +23,7 @@ I have worked in various roles on multiple projects, both governmental and non-g
 
 Senescence in sea turtles
 ==============================
-(/images/PhyloAgingTestudines.png)
+![](/images/PhyloAgingTestudines.png)
 
 [First paper researching aging dynamics in testudines including sea turtles](https://www.nature.com/articles/s42003-025-08717-1)
 
