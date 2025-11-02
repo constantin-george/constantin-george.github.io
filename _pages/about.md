@@ -13,7 +13,7 @@ I am a doctoral student in the [Archie Carr Center for Sea Turtle Research](http
 
 <br/><img src='/images/sea_turtle_greece1.png'>
 
-I currently research reproductive senescence in sea turtles, and I am particularly interested in the intersection between foraging ecology and the rate of aging. I approach my research through a statistical framework.
+I currently research reproductive senescence in sea turtles, and I am particularly interested in the intersection between life history strategy and rates of aging. I approach my research through a statistical framework.
 
 While, for the most part, my focus has been on sea turtles, I am deeply interested in population modeling and its application to wildlife conservation. I feel by understanding the underlying mathematics of biological systems you gain a deeper insight into the nuts and bolts of how these systems function.
 
