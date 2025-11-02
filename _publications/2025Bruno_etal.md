@@ -3,7 +3,7 @@ title: "Female reproductive dynamics in Caribbean green turtles Chelonia mydas"
 collection: publications
 type: "Paper"
 excerpt: "Authors: Renato Saragoça Bruno, Cynthia J. Lagueux, Jeffrey D. Miller, C. George Glen, Alan B. Bolten, Karen A. Bjorndal"
-permalink: /publications/CCdemographicestimates
+permalink: /publications/CMdemographicestimates
 venue: "Endangered Species Research"
 date: 2025-10-24
 ---
