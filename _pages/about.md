@@ -21,7 +21,7 @@ I have worked in various roles on multiple projects, both governmental and non-g
 
 <br/><img src='/images/sea_turtle_greece2.png'>
 
-Senescence in Sea turtles
+Senescence in sea turtles
 ==============================
 [![](/images/PhyloAgingTestudines.png)](https://www.nature.com/articles/s42003-025-08717-1)
 
