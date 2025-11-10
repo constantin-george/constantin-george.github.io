@@ -23,7 +23,7 @@ Senescence in sea turtles
 ==============================
 [![](/images/Glen2025a_PhyloAgingTestudines.png)](https://www.nature.com/articles/s42003-025-08717-1)
 
-Here, we present the first paper researching aging dynamics known-aged sea turtles. We then contextualize our findings within the broad array of testudine life history strategies.
+Here, we present the first paper researching aging dynamics in known-aged sea turtles. We then contextualize our findings within the broad array of testudine life history strategies.
 
 [![](/images/Glen2025b_Transitions.png)](https://doi.org/10.1002/ece3.72430)
 
