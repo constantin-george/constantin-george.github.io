@@ -14,6 +14,6 @@ Recent work has shown testudines can escape actuarial senescence for extended pe
 
 Authors: C. George Glen, José Miguel Ponciano, James F. Gillooly, María Torres-Sánchez, Walter Mustin, Alan B. Bolten, Karen A. Bjorndal 
 
-DOI: 10.1038/s42003-025-08717-1
+DOI: [10.1038/s42003-025-08717-1](https://www.nature.com/articles/s42003-025-08717-1)
 
 Link to paper [here](http://constantin-george.github.io/files/Glen2025Senescence.pdf)
